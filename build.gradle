@@ -12,7 +12,7 @@ repositories {
 
 dependencies {
     testImplementation 'junit:junit:4.13.2'
-	implementation 'com.github.metallum-ultorum:echolocate:master-SNAPSHOT'
+	implementation 'com.github.metallum-ultorum:echolocate:0.0.1'
 }
 
 jar {
