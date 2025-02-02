@@ -1,4 +1,4 @@
-package echolocate;
+package com.metallumultorum.echolocate;
 
 import java.util.List;
 import java.util.Vector;
